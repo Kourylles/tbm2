@@ -1,0 +1,1 @@
+import{o as r,e as s,i as t,j as c}from"./index.a4713686.js";import{_ as n}from"./plugin-vue_export-helper.21dcd24c.js";const a={},i={class:"q-mt-xl",align:"center"};function l(o,e){return r(),s("div",i,[t(c,{onClick:e[0]||(e[0]=_=>o.$router.back()),push:"",class:"glossy text-blue-grey-12",color:"primary",icon:"visibility_off"})])}var p=n(a,[["render",l]]);export{p as G};
